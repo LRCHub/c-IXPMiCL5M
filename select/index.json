@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "道徳と皿 (2025 ver. / Instrumental)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-11T12:21:44.435791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "道徳と皿",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/01_道徳と皿_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "道徳と皿〜2025ver.〜",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_道徳と皿〜2025ver.〜_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "道徳と皿 - Doutoku To Sara",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/03_道徳と皿_-_Doutoku_To_Sara_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "道徳と皿",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_道徳と皿_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
